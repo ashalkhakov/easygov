@@ -23,6 +23,9 @@ docker run -ti --rm \
         ashalkhakov/easygov:latest $@
 ```
 
+* Заходите на сайт [egov](http://egov.kz) в открывшемся окне
+  браузера. Вы можете получить файлы из своей домашней директории в
+  директории `/user` контейнера.
 
 
 --Артём Шалхаков, artyom DOT shalkhakov AT gmail DOT com
